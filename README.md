@@ -35,22 +35,6 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
     }
   ```
 
-```html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-</body>
-</html>
-
-```
-
 ## Programming Languages, Tools and Skills <a name="skills-and-technologies"></a>
 
 - Programming Languages:
