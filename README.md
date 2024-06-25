@@ -20,14 +20,14 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
   - ## Project Documentation
     -([The Black Restaurant Documentation](<The Black Restaurant Documentation.pdf>))
 
-## Code Samples <a name="code-samples"></a>
+## Hello World <a name="code-samples"></a>
 
   ```java
     public class Internship{
       public static void main(String[] args){
       System.out.println(
-      "I'm Looking for Work-Integrated Learning\n "+
-      " In the following positions:
+      "I'm Looking for Work-Integrated Learning
+      In the following positions:
       System Analysis, Database Analysis,
       System Tester and IT Project Manager" );
 
