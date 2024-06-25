@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 I'm an enthusiastic informatics student. I have a passion for programming languages and System Analysis and Design. My daily pursuit of knowledge allows me to sharpen my skills and expand my understanding. Currently i'm actively seeking an internship where i can apply theoretical knowledge and gain practical experience in devising innovative solutions for real-world problems.
 
 ## Resume/CV <a name="resume"></a>
-- [RESUME](<LT MANGENA RESUME.pdf>){: target ="_blank"}
+- ([RESUME](<LT MANGENA RESUME.pdf>){: target ="_blank"})
 - [Recommendation Letter](<Recommendation Letter.pdf>){: target ="_blank"}
 
 ## Education
@@ -26,11 +26,11 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 
 ## Programming Languages, Tools and Skills <a name="skills-and-technologies"></a>
 
-- Programming Languages: 
+- Programming Languages:
   - Java
-- Web Technologies 
+- Web Technologies
   - HTML, CSS
-- Databases: 
+- Databases:
   - MySQL
 - Tools
   - MySQL CL
@@ -45,6 +45,9 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
   - Data Tools
   - Data Analysis Process
   - Effective Leadership
+
+## Certificate
+- IBM Data Fundamentals
 
 ## Contact Information <a name="contact-information"></a>
 
