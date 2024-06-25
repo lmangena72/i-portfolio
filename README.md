@@ -9,6 +9,12 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 - [RESUME](<LT MANGENA RESUME.pdf>){: target ="_blank"}
 - [Recommendation Letter](<Recommendation Letter.pdf>){: target ="_blank"}
 
+## Education
+- 2021 - Current Tshwane University of Technology
+- Diploma In Informatics(Extended)
+- 2016 - 2020 Tebogwana Secondary School (School of Specialization In Science)
+-  Bachelor's Degree Pass
+
 ## Projects <a name="projects"></a>
 
 -
@@ -18,7 +24,7 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 - [[Code Snippet 1](#)]
 - [Code Snippet 2](#)
 
-## Languages, Tools and Skills <a name="skills-and-technologies"></a>
+## Programming Languages, Tools and Skills <a name="skills-and-technologies"></a>
 
 - Programming Languages: 
   - Java
