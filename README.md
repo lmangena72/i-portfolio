@@ -25,8 +25,11 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
   ```java
     public class Internship{
       public static void main(String[] args){
-      System.out.println("I'm Looking for Work-Integrated Learning\n "+
-      " In the following positions: System Analysis, Database Analysis, System Tester and IT Project Manager" );
+      System.out.println(
+      "I'm Looking for Work-Integrated Learning\n "+
+      " In the following positions:
+      System Analysis, Database Analysis,
+      System Tester and IT Project Manager" );
 
       }
     }
