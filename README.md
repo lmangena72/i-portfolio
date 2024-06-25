@@ -1,4 +1,4 @@
-# Informatics Student | System Analyst Portfolio
+# Informatics Student | Portfolio
 
 Welcome to my portfolio! This repository showcases my skills, projects, and experiences in the field of Informatics.
 
@@ -22,8 +22,15 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 
 ## Code Samples <a name="code-samples"></a>
 
-- [Code Snippet 1](#)
-- [Code Snippet 2](#)
+  ```java
+    public class Internship{
+      public static void main(String[] args){
+      System.out.println("I'm Looking for Work-Integrated Learning\n "+
+      " In the following positions: System Analysis, Database Analysis, System Tester and IT Project Manager" );
+
+      }
+    }
+  ```
 
 ## Programming Languages, Tools and Skills <a name="skills-and-technologies"></a>
 
