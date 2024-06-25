@@ -1,6 +1,6 @@
-# Computer Science Student | Software Developer Portfolio
+# Informatics Student | System Analyst Portfolio
 
-Welcome to my portfolio! This repository showcases my skills, projects, and experiences in the field of Computer Science.
+Welcome to my portfolio! This repository showcases my skills, projects, and experiences in the field of Informatics.
 
 ## My Goals Are
 To secure an internship or entry-level position to gain practical experience in software engineering, computer sciences and or related fields. 
@@ -9,49 +9,34 @@ To build a professional network within the Software Engineering, IT and Computer
 
 ## Resume/CV <a name="resume"></a>
 
-- 
+- [text](<Letter Of Recommendation - Peter Malope.pdf>)
 
 ## Projects <a name="projects"></a>
 
-- Project 1: Pulse Web App
-  - Description: 
-    > emotional regulator app, this web app is able to read a user's pulse rate and determine their emotion/ mood then display to the user that information
-    
-    An external device(Pulse detector Device) programmed using Arduino.
-
-    > Technologies used: xampp, HTML, php, Bootstrap 5.3.3, MySQL
-  - Repository Link: [Pulse App GitHub Repo](igris-marvin_pulse_app_repo.html)
-
-- Project 2: Sani-Enterprise Web App
-  - Description: 
-    > E-commerce Catalog website for selling Furniture
-    > Technologies used: Java, MariaDB, Spring Boot 3 Framework, Thymeleaf, HTML, Bootstrap 5.3.3, Tomcat Web Server
-  - Repository Link: [Sani-Enterprise GitHub Repo](https://github.com/igris-marvin/INTERNET-PROJECT-2024)
+- Project 1: The Black Restaurant Website
+ 
 
 ## Code Samples <a name="code-samples"></a>
 
-- [Code Snippet 1](#)
+- [[Code Snippet 1](#)]
 - [Code Snippet 2](#)
 
 ## Skills and Technologies <a name="skills-and-technologies"></a>
 
 - Programming Languages: 
-  - Java, Kotin
+  - Java
 - Web Technologies 
-  - HTML, CSS, php, JavaScript, Thymeleaf, JSP
-- Frameworks/Libraries: 
-  - Spring Boot 3, Java Enterprise Edition (JEE)
+  - HTML, CSS
 - Databases: 
-  - MySQL, MariaDB, OracleDB, Derby
+  - MySQL
 - Other: 
   - Git, GitHub
 
 ## Contact Information <a name="contact-information"></a>
 
-- Primary Email: malopepeter@yahoo.com
-- Secondary Email: marvenmalope2003@gmail.com
-- Phone Number: +27 68 293 8418
-- LinkedIn: [Peter Malope LinkedIn](linkedin.com/in/peter-malope-a578242bb/)
-- GitHub: [Peter Malope GitHub Profile](https://github.com/igris-marvin)
+- Primary Email: lmangena72@gmail.com
+- Phone Number: +27 81 760 1418
+- LinkedIn: [Lesedi Tshedza Mangena LinkedIn](linkedin.com/in/peter-malope-a578242bb/)
+- GitHub: [Lesedi Tshedza Mangena GitHub Profile](https://github.com/igris-marvin)
 
 Feel free to explore the repository and reach out to me if you have any questions or opportunities for collaboration!
