@@ -9,7 +9,7 @@ To build a professional network within the Software Engineering, IT and Computer
 
 ## Resume/CV <a name="resume"></a>
 
-- [text](<Letter Of Recommendation - Peter Malope.pdf>)
+- [Letter of Recommendation](<Letter Of Recommendation - Peter Malope.pdf>)
 
 ## Projects <a name="projects"></a>
 
