@@ -18,7 +18,7 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 ## Projects <a name="projects"></a>
 - The Black Restaurant
   - ## Project Documentation
-    -([The Black Restaurant Documentation](<The Black Restaurant Documentation.pdf>))
+    -[The Black Restaurant Documentation](<The Black Restaurant Documentation.pdf>)
 
 ## Hello World <a name="code-samples"></a>
 
