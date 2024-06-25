@@ -16,8 +16,9 @@ I'm an enthusiastic informatics student. I have a passion for programming langua
 -  Bachelor's Degree Pass
 
 ## Projects <a name="projects"></a>
-
--
+- The Black Restaurant
+  - ## Project Documentation
+    -(([The Black Restaurant Documentation](<The Black Restaurant Documentation.pdf>)){: target ="_blank"})
 
 ## Code Samples <a name="code-samples"></a>
 
